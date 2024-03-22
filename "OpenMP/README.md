@@ -15,6 +15,14 @@ gcc -fopenmp postmansort.c -o postmansort
 ./postmansort
 ```
 ## Comparaciones de tiempos de ejecución:
-Secuencial
+
+Secuencial:
+
 ![secuencial](imagenes/secuencial.png)
 
+Paralelo:
+
+![secuencial](imagenes/paralelo.png)
+
+## Conclusión
+La implementación paralela del algoritmo de Postman utilizando OpenMP ha demostrado ser altamente efectiva en la reducción del tiempo de ejecución, lo que sugiere que la paralelización es una estrategia eficaz para mejorar el rendimiento de algoritmos de ordenamiento y otros algoritmos computacionales intensivos.
