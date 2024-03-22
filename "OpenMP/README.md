@@ -16,5 +16,5 @@ gcc -fopenmp postmansort.c -o postmansort
 ```
 ## Comparaciones de tiempos de ejecución:
 Secuencial
-![secuencial](images/secuencial.png)
+![secuencial](imagenes/secuencial.png)
 
