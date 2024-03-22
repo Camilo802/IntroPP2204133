@@ -14,5 +14,7 @@ srun -n 10 -w ExaDELL --pty /bin/bash
 gcc -fopenmp postmansort.c -o postmansort
 ./postmansort
 ```
-##Comparaciones de tiempos de ejecución:
+## Comparaciones de tiempos de ejecución:
 Secuencial
+![secuencial](images/secuencial.png)
+
