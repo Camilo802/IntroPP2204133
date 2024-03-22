@@ -1,1 +1,9 @@
+# Postman Sort
+
+El algoritmo de clasificación Postman es una técnica de optimización utilizada en problemas de ruteo o asignación de tareas, inspirada en la tarea real de los carteros que buscan minimizar la distancia total recorrida durante la entrega del correo. Aunque su nombre hace referencia a los carteros,este algoritmo tiene aplicaciones más amplias en áreas como logística, transporte y redes de comunicación.
+
+## Instrucciones de compilación y ejecución
+Para compilar y ejecutar el código en el clúster de GuaneExa, siga las siguientes instrucciones:
+
+ssh guaneExa
 
