@@ -7,4 +7,12 @@ Para compilar y ejecutar el código en el clúster de GuaneExa, siga las siguien
 
 ```shell
 ssh guaneExa
-
+```
+compile y ejecute el código usando los siguientes comandos:
+```shell
+srun -n 10 -w ExaDELL --pty /bin/bash
+gcc -fopenmp postmansort.c -o postmansort
+./postmansort
+```
+##Comparaciones de tiempos de ejecución:
+Secuencial
