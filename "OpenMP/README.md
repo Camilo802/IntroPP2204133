@@ -5,5 +5,6 @@ El algoritmo de clasificación Postman es una técnica de optimización utilizad
 ## Instrucciones de compilación y ejecución
 Para compilar y ejecutar el código en el clúster de GuaneExa, siga las siguientes instrucciones:
 
+```shell
 ssh guaneExa
 
