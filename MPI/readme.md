@@ -49,5 +49,6 @@ postmansort MPI:
 La implementación MPI de PostmanSort puede no ser la opción más adecuada para problemas de ordenamiento en sistemas con recursos compartidos, donde las implementaciones secuenciales y paralelas con OpenMP ofrecen un mejor rendimiento. Sin embargo, en entornos distribuidos a gran escala, MPI sigue siendo una herramienta poderosa para la paralelización de tareas.
 
 
+# Binary Search:
 
 
