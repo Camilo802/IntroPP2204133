@@ -1,8 +1,3 @@
-# Integrantes:
-
-Yonathan Camilo Benítez Mancipe 2204133
-Adel Alvarez 2191932
-
 # Postman Sort:
 PostmanSort con MPI distribuye el trabajo de ordenamiento entre múltiples procesos MPI, aprovechando la capacidad de paralelización de MPI para ordenar grandes conjuntos de datos de manera eficiente en sistemas distribuidos.
 
@@ -42,6 +37,10 @@ postmansort OMP:
 postmansort MPI:
 
 ![postmansort](postmansort/imagenes/mpi_postmansort.png)
+
+## Conclusión
+
+La implementación MPI de PostmanSort puede no ser la opción más adecuada para problemas de ordenamiento en sistemas con recursos compartidos, donde las implementaciones secuenciales y paralelas con OpenMP ofrecen un mejor rendimiento. Sin embargo, en entornos distribuidos a gran escala, MPI sigue siendo una herramienta poderosa para la paralelización de tareas.
 
 
 
