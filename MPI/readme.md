@@ -32,6 +32,6 @@ Para MPI:
 ## Comparaciones de tiempos de ejecución:
 
 postmansort:
-![postmansort](MPI/postmansort/imagenes/postmansort_c.png)
+![postmansort](imagenes/postmansort_c.png)
 
 
