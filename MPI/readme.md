@@ -33,5 +33,11 @@ Para MPI:
 
 postmansort:
 ![postmansort](postmansort/imagenes/postmansort_c.png)
+postmansort OMP:
+![postmansort](postmansort/imagenes/omp_postmansort.png)
+postmansort MPI:
+![postmansort](postmansort/imagenes/mpi_postmansort.png)
+
+
 
 
