@@ -1,8 +1,10 @@
 # Integrantes:
 
-Yonathan Camilo Benítez Mancipe 2204133 - Postmansort
+| Nombre                           | Código  | Participación      |
+|----------------------------------|---------|--------------------|
+| Yonathan Camilo Benítez Mancipe | 2204133 | Postmansort        |
+| Adel Alvarez                     | 2191932 | BinarySearch       |
 
-Adel Alvarez 2191932 - BinarySearch
 
 # Postman Sort:
 PostmanSort con MPI distribuye el trabajo de ordenamiento entre múltiples procesos MPI, aprovechando la capacidad de paralelización de MPI para ordenar grandes conjuntos de datos de manera eficiente en sistemas distribuidos.
